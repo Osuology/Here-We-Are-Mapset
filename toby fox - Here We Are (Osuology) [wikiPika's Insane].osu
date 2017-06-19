@@ -3,18 +3,18 @@ osu file format v14
 [General]
 AudioFilename: audio.mp3
 AudioLeadIn: 0
-PreviewTime: -1
+PreviewTime: 44341
 Countdown: 0
 SampleSet: None
 StackLeniency: 0.2
 Mode: 0
 LetterboxInBreaks: 0
-WidescreenStoryboard: 1
+WidescreenStoryboard: 0
 
 [Editor]
 Bookmarks: 22082,33091,44651,55660,66669,77678,88687,110706,121715
 DistanceSpacing: 0.9
-BeatDivisor: 4
+BeatDivisor: 16
 GridSize: 8
 TimelineZoom: 1.4
 
